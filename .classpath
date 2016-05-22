@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/sun-jai_codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Desktop/학교/3-1/네트워크팀프/jar/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/혜용/Downloads/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
